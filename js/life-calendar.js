@@ -52,7 +52,7 @@
 
 	// dates
 	var currentDate = new Date();
-	var bDate = new Date(1998,11,08);
+	var bDate = new Date(1998,11,8);
 
 	// public
 	window.LC = {
