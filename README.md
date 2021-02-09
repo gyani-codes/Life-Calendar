@@ -6,3 +6,4 @@ Each block represent a week , and there are 52 weeks in a year , so each row is 
 
 
 [![Alt text](https://img.youtube.com/vi/arj7oStGLkU/0.jpg)](https://www.youtube.com/watch?v=arj7oStGLkU)
+![](https://komarev.com/ghpvc/?username=vishal-codes)
